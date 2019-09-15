@@ -11,3 +11,5 @@
 .sass-cache/
 project/media/*
 .~lock*
+data/*
+results/*
